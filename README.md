@@ -33,6 +33,4 @@ pip install numpy matplotlib opencv-python pyyaml
 ## launch image
 
 ![Execution Screenshot](images/launch.png)
-## csv image
-![CSV Output Screenshot](images/csv.png)
 
