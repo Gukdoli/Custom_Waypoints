@@ -7,8 +7,8 @@ import yaml
 import cv2
 
 # path yaml and (pgm or png)
-yaml_file = os.path.join("/home/kim/g1_2.yaml")
-map_path = os.path.join("/home/kim/g1_2.pgm")
+yaml_file = os.path.join("/home/your_map.yaml")
+map_path = os.path.join("/home/your_map.pgm")
 
 class WaypointCreator:
    def __init__(self, map_name=None):
