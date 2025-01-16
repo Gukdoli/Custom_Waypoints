@@ -34,3 +34,4 @@ pip install numpy matplotlib opencv-python pyyaml
 
 ![Execution Screenshot](images/launch.png)
 
+left:index / right:velocity
